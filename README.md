@@ -10,3 +10,9 @@ In the following 3 weeks, you will be building on your previous work with image 
 - Integrate your custom dataset into the YOLO framework (transfer learning).
 - Fine-tune the YOLO model using your dataset. This involves adjusting the model's parameters to better suit your specific data.
 - Conduct evaluation of your fine-tuned YOLO model. Use appropriate metrics to assess its performance (e.g., precision, recall, accuracy, F1 score, etc.). 
+
+Trash Classification:
+
+This project aims to develop a model that classifies whether an item is recyclable or non-recyclable based on images of common household waste. This can include images of various packaging types, food containers, and plastic items.
+
+Link to Dataset and Files: https://drive.google.com/drive/folders/1Z-gfctvnPQjV6v9z1mt9MCi562MKZCTj?usp=sharing
